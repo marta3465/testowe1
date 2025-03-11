@@ -5,3 +5,5 @@ pierwsze zajecia
 pierwsze zajecia drugi commit ;)
 
 kolejna linijka tralalalla
+
+znowu zmiany :)
