@@ -4,4 +4,5 @@ pierwsze zajecia
 
 pierwsze zajecia drugi commit ;)
 
-kolejna linijka tralalalla
+
+kolejna linijka lalalalal
